@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("My Parents Healthy DIner")
 
-streamlit.header('Break-Your-Fast Menu')
+streamlit.header('BreakYourFast Menu')
 streamlit.text('Omega 🥣 3')
 streamlit.text('Kal🥗e')
 streamlit.text('Hard-Boiled🐔')
