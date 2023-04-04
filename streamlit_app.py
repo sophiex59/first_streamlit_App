@@ -1,6 +1,6 @@
-import streamlit as st
+import streamlit
 
-st.title("My Parents Healthy DIner")
+streamlit.title("My Parents Healthy DIner")
 
 streamlit.header('BreakYourFast Menu')
 streamlit.text('Omega 🥣 3')
